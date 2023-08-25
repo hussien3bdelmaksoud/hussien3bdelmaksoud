@@ -57,8 +57,8 @@
 
 # My Status
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hussien3bdelmaksoud&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hussien3bdelmaksoud&layout=compact&langs_count=20&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hussien3bdelmaksoud&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussien3bdelmaksoud&layout=compact&langs_count=20&theme=transparent"/>
 </div>
 
 
